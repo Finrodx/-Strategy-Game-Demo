@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d6db3447a415f48b887bb675a1e18d, type: 3}
+  m_Name: PowerPlantSO
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3225822480632525817, guid: d4a421c77483acc46a2b310c57889c58, type: 3}
+  buttonSprite: {fileID: 21300000, guid: 8514c5efac8351c46b9e56d163107cb0, type: 3}
+  buildingHP: 50
+  units: []
+  isAProductionBuilding: 0
+  isAResourceBuilding: 1
+  isBuilding: 1
+  isUnit: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d6db3447a415f48b887bb675a1e18d, type: 3}
+  m_Name: BarracksSO
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7386570132481871964, guid: 7905cdaa73aa8ec4ca4f682032fd1878, type: 3}
+  buttonSprite: {fileID: 21300000, guid: 9f5aadb0ca220a942b71ce779f54d550, type: 3}
+  buildingHP: 100
+  units: []
+  isAProductionBuilding: 1
+  isAResourceBuilding: 0
+  isBuilding: 1
+  isUnit: 0

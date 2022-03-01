@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b49ed53eead4bf145b7fe4e1d7366546
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - productionMenu: {instanceID: 0}
+  - informationMenu: {instanceID: 0}
+  - iconTemp: {instanceID: 0}
+  - barracksSO: {fileID: 11400000, guid: 16a92750154fd8e49b42c890b1012c2e, type: 2}
+  - powerPlantSO: {fileID: 11400000, guid: 9f75499c622340a4c854541b2f81369c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
